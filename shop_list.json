@@ -1,0 +1,51 @@
+{
+    "shops": [
+        {
+            "shop_name": "Basic-Fit",
+            "rayons" : [
+                {
+                    "rayon_nom" : "Boissons",
+                    "rayon_categorie" : "Hydratation"
+                },
+                {
+                    "rayon_nom" : "Barre Proteine",
+                    "rayon_categorie" : "Alimentation"
+                },
+                {
+                    "rayon_nom" : "Cadenas",
+                    "rayon_categorie" : "Protection"
+                }
+            ]    
+        },
+        {
+            "shop_name": "Krefel",
+            "rayons" : [
+                {
+                    "rayon_nom" : "Clavier",
+                    "rayon_categorie" : "Electronique"
+                },
+                {
+                    "rayon_nom" : "Souris",
+                    "rayon_categorie" : "Electronique"
+                },
+                {
+                    "rayon_nom" : "Caméra",
+                    "rayon_categorie" : "Electronique"
+                },
+                {
+                    "rayon_nom" : "Enceinte",
+                    "rayon_categorie" : "Electronique"
+                },
+                {
+                    "rayon_nom" : "Telpehone",
+                    "rayon_categorie" : "Electronique"
+                },
+                {
+                    "rayon_nom" : "Ecouteur sans fil",
+                    "rayon_categorie" : "Electronique"
+                }
+            ]    
+        }
+
+    ]
+}
