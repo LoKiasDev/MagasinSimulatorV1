@@ -1,0 +1,10 @@
+{
+    "Basic-Fit": [
+        {"employee_name": "Alice", "employee_position": "Vendeuse"},
+        {"employee_name": "Bob", "employee_position": "Caissier"}
+    ],
+    "Krefel": [
+        {"employee_name": "Charlie", "employee_position": "Gérant"},
+        {"employee_name": "David", "employee_position": "Assistant"}
+    ]
+}
