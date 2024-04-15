@@ -42,7 +42,7 @@ class Shop:
 
     def remove_rayon(self, rayon_nom):
         self.rayons_list = [rayon for rayon in self.rayons_list if rayon['rayon_nom'] != rayon_nom]
-        self.save_shop_to_json()  # Sauvegarder les modifications dans le fichier JSON
+        self.save_shop_to_json() 
 
     def save_shop_to_json(self):
         shop_data = {
