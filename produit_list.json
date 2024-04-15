@@ -1,0 +1,30 @@
+{
+    "Basic-Fit": [
+        {
+            "produit_name": "RedBull",
+            "produit_quantity": "50"
+        },
+        {
+            "produit_name": "Bande echauffement",
+            "produit_quantity": "10"
+        },
+        {
+            "produit_name": "Monster",
+            "produit_quantity": "10"
+        },
+        {
+            "produit_name": "Cadenas",
+            "produit_quantity": "10"
+        }
+    ],
+    "Krefel": [
+        {
+            "produit_name": "RTX 4090 super ",
+            "produit_quantity": "5"
+        },
+        {
+            "produit_name": "JBL 660NC",
+            "produit_quantity": "6"
+        }
+    ]
+}

@@ -1,10 +1,22 @@
 {
     "Basic-Fit": [
-        {"employee_name": "Alice", "employee_position": "Vendeuse"},
-        {"employee_name": "Bob", "employee_position": "Caissier"}
+        {
+            "employee_name": "Bob",
+            "employee_position": "Caissier"
+        },
+        {
+            "employee_name": "Mathis",
+            "employee_position": "Test"
+        }
     ],
     "Krefel": [
-        {"employee_name": "Charlie", "employee_position": "Gérant"},
-        {"employee_name": "David", "employee_position": "Assistant"}
+        {
+            "employee_name": "Charlie",
+            "employee_position": "G\u00c3\u00a9rant"
+        },
+        {
+            "employee_name": "David",
+            "employee_position": "Assistant"
+        }
     ]
 }
